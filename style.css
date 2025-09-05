@@ -196,7 +196,6 @@ transform: translate(-50%, -15%) rotate(40deg);
     flex-direction: row;
     height: 60vh;
     overflow: hidden;
-    margin-left: 23rem;
 }
 .Discovery{
    width: 20vw;
@@ -254,7 +253,7 @@ transform: translate(-50%, -15%) rotate(40deg);
 }
 .process{
     transform: rotate(-90deg);
-    margin-left: 32rem;
+    margin-left: 14rem;
     margin-top: 1rem;
     width: 5rem;
     color: var(--text);
@@ -616,7 +615,7 @@ transform: translate(-50%, -15%) rotate(40deg);
   .faqs {
     position: relative;
     z-index: 3;
-    width: 16rem;
+    width: 10rem;
     height: 12rem;
     display: flex;
     flex-direction: column;
